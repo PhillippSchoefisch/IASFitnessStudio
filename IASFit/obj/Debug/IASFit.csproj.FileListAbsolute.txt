@@ -1,0 +1,16 @@
+C:\Users\Julian.Meguin\Documents\GitHub\IASFitnessStudio\IASFit\bin\Debug\IASFit.exe.config
+C:\Users\Julian.Meguin\Documents\GitHub\IASFitnessStudio\IASFit\bin\Debug\IASFit.exe
+C:\Users\Julian.Meguin\Documents\GitHub\IASFitnessStudio\IASFit\bin\Debug\IASFit.pdb
+C:\Users\Julian.Meguin\Documents\GitHub\IASFitnessStudio\IASFit\obj\Debug\IASFit.csproj.AssemblyReference.cache
+C:\Users\Julian.Meguin\Documents\GitHub\IASFitnessStudio\IASFit\obj\Debug\IASFit.csproj.SuggestedBindingRedirects.cache
+C:\Users\Julian.Meguin\Documents\GitHub\IASFitnessStudio\IASFit\obj\Debug\MainWindow.g.cs
+C:\Users\Julian.Meguin\Documents\GitHub\IASFitnessStudio\IASFit\obj\Debug\App.g.cs
+C:\Users\Julian.Meguin\Documents\GitHub\IASFitnessStudio\IASFit\obj\Debug\IASFit_MarkupCompile.cache
+C:\Users\Julian.Meguin\Documents\GitHub\IASFitnessStudio\IASFit\obj\Debug\IASFit_MarkupCompile.lref
+C:\Users\Julian.Meguin\Documents\GitHub\IASFitnessStudio\IASFit\obj\Debug\MainWindow.baml
+C:\Users\Julian.Meguin\Documents\GitHub\IASFitnessStudio\IASFit\obj\Debug\IASFit.g.resources
+C:\Users\Julian.Meguin\Documents\GitHub\IASFitnessStudio\IASFit\obj\Debug\IASFit.Properties.Resources.resources
+C:\Users\Julian.Meguin\Documents\GitHub\IASFitnessStudio\IASFit\obj\Debug\IASFit.csproj.GenerateResource.cache
+C:\Users\Julian.Meguin\Documents\GitHub\IASFitnessStudio\IASFit\obj\Debug\IASFit.csproj.CoreCompileInputs.cache
+C:\Users\Julian.Meguin\Documents\GitHub\IASFitnessStudio\IASFit\obj\Debug\IASFit.exe
+C:\Users\Julian.Meguin\Documents\GitHub\IASFitnessStudio\IASFit\obj\Debug\IASFit.pdb
