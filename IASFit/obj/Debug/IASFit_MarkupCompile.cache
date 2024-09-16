@@ -4,12 +4,20 @@
 winexe
 C#
 .cs
+<<<<<<< Updated upstream
 C:\Users\Julian.Meguin\Documents\GitHub\IASFitnessStudio\IASFit\obj\Debug\
+=======
+C:\Projekte\IASFitnessStudio\IAS_FitnessStudio\IASFit\obj\Debug\
+>>>>>>> Stashed changes
 IASFit
 none
 false
 DEBUG;TRACE
+<<<<<<< Updated upstream
 C:\Users\Julian.Meguin\Documents\GitHub\IASFitnessStudio\IASFit\App.xaml
+=======
+C:\Projekte\IASFitnessStudio\IAS_FitnessStudio\IASFit\App.xaml
+>>>>>>> Stashed changes
 1219584333
 
 51579654133

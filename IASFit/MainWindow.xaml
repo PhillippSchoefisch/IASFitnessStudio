@@ -6,8 +6,19 @@
         xmlns:local="clr-namespace:IASFit"
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
+<<<<<<< Updated upstream
     <Grid Width="NaN">
         <Button Content="Button" HorizontalAlignment="Left" Margin="58,82,0,0" VerticalAlignment="Top" Height="36" Width="70" Click="Button_Click"/>
         <Label x:Name="Level1" Content="Bitte nicht drücken" HorizontalAlignment="Left" Margin="133,87,0,0" VerticalAlignment="Top"/>
+=======
+    <Grid>
+        <Button x:Name="Button_Anmeldung" Content="Button" HorizontalAlignment="Center" Margin="0,269,0,0" VerticalAlignment="Top" Height="86" Width="240" Click="Button_Click" Background="#FF53D624"/>
+        <Label x:Name="Anmeldung" Content="Kundennummer" HorizontalAlignment="Left" Margin="280,108,0,0" VerticalAlignment="Top"/>
+        <Label Content="Passwort" HorizontalAlignment="Left" Margin="280,199,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="Kundennummer" HorizontalAlignment="Left" Margin="410,112,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" TextChanged="TextBox_TextChanged"/>
+        <TextBox x:Name="Passwort" HorizontalAlignment="Left" Margin="410,203,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" TextChanged="TextBox_TextChanged_1"/>
+        <Label x:Name="Benachrichtigung" Content="" HorizontalAlignment="Center" Margin="0,230,0,0" VerticalAlignment="Top" Width="240"/>
+
+>>>>>>> Stashed changes
     </Grid>
 </Window>

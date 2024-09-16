@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 C:\Users\Julian.Meguin\Documents\GitHub\IASFitnessStudio\IASFit\bin\Debug\IASFit.exe.config
 C:\Users\Julian.Meguin\Documents\GitHub\IASFitnessStudio\IASFit\bin\Debug\IASFit.exe
 C:\Users\Julian.Meguin\Documents\GitHub\IASFitnessStudio\IASFit\bin\Debug\IASFit.pdb
@@ -14,3 +15,20 @@ C:\Users\Julian.Meguin\Documents\GitHub\IASFitnessStudio\IASFit\obj\Debug\IASFit
 C:\Users\Julian.Meguin\Documents\GitHub\IASFitnessStudio\IASFit\obj\Debug\IASFit.csproj.CoreCompileInputs.cache
 C:\Users\Julian.Meguin\Documents\GitHub\IASFitnessStudio\IASFit\obj\Debug\IASFit.exe
 C:\Users\Julian.Meguin\Documents\GitHub\IASFitnessStudio\IASFit\obj\Debug\IASFit.pdb
+=======
+C:\Projekte\IASFitnessStudio\IAS_FitnessStudio\IASFit\bin\Debug\IASFit.exe.config
+C:\Projekte\IASFitnessStudio\IAS_FitnessStudio\IASFit\bin\Debug\IASFit.exe
+C:\Projekte\IASFitnessStudio\IAS_FitnessStudio\IASFit\bin\Debug\IASFit.pdb
+C:\Projekte\IASFitnessStudio\IAS_FitnessStudio\IASFit\obj\Debug\IASFit.csproj.AssemblyReference.cache
+C:\Projekte\IASFitnessStudio\IAS_FitnessStudio\IASFit\obj\Debug\MainWindow.g.cs
+C:\Projekte\IASFitnessStudio\IAS_FitnessStudio\IASFit\obj\Debug\App.g.cs
+C:\Projekte\IASFitnessStudio\IAS_FitnessStudio\IASFit\obj\Debug\IASFit_MarkupCompile.cache
+C:\Projekte\IASFitnessStudio\IAS_FitnessStudio\IASFit\obj\Debug\IASFit_MarkupCompile.lref
+C:\Projekte\IASFitnessStudio\IAS_FitnessStudio\IASFit\obj\Debug\MainWindow.baml
+C:\Projekte\IASFitnessStudio\IAS_FitnessStudio\IASFit\obj\Debug\IASFit.g.resources
+C:\Projekte\IASFitnessStudio\IAS_FitnessStudio\IASFit\obj\Debug\IASFit.Properties.Resources.resources
+C:\Projekte\IASFitnessStudio\IAS_FitnessStudio\IASFit\obj\Debug\IASFit.csproj.GenerateResource.cache
+C:\Projekte\IASFitnessStudio\IAS_FitnessStudio\IASFit\obj\Debug\IASFit.csproj.CoreCompileInputs.cache
+C:\Projekte\IASFitnessStudio\IAS_FitnessStudio\IASFit\obj\Debug\IASFit.exe
+C:\Projekte\IASFitnessStudio\IAS_FitnessStudio\IASFit\obj\Debug\IASFit.pdb
+>>>>>>> Stashed changes
