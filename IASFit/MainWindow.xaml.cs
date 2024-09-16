@@ -24,5 +24,10 @@ namespace IASFit
         {
             InitializeComponent();
         }
+
+        private void Button_Click(object sender, RoutedEventArgs e)
+        {
+            Level1.Content = "Button";
+        }
     }
 }

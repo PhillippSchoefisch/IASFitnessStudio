@@ -6,7 +6,8 @@
         xmlns:local="clr-namespace:IASFit"
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
-    <Grid>
-        
+    <Grid Width="NaN">
+        <Button Content="Button" HorizontalAlignment="Left" Margin="58,82,0,0" VerticalAlignment="Top" Height="36" Width="70" Click="Button_Click"/>
+        <Label x:Name="Level1" Content="Bitte nicht drücken" HorizontalAlignment="Left" Margin="133,87,0,0" VerticalAlignment="Top"/>
     </Grid>
 </Window>
